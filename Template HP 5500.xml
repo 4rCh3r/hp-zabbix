@@ -37,12 +37,12 @@
                     <name>Oper Status</name>
                 </application>
                 <application>
-                    <name>Velocidad interface</name>
+                    <name>Speed interface</name>
                 </application>
             </applications>
             <items>
                 <item>
-                    <name>Nombre del Equipo</name>
+                    <name>Device Name</name>
                     <type>4</type>
                     <snmp_community>{$SNMP_COMMUNITY}</snmp_community>
                     <multiplier>0</multiplier>
